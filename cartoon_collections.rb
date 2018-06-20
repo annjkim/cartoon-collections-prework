@@ -1,4 +1,5 @@
 dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
+planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 
 def roll_call_dwarves(names)
   i = 0 
@@ -8,8 +9,7 @@ def roll_call_dwarves(names)
   end 
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
+def summon_captain_planet
 end
 
 def long_planeteer_calls# code an argument here
